@@ -45,8 +45,8 @@ const Tophead = () => {
             />
           </div>
         </div>
-        <div className="flex gap-6 items-center">
-          <a className="flex px-2 border-[3px] border-gray-300 rounded-lg h-10 items-center gap-2 font-bold">
+        <div className="flex gap-6 items-center ">
+          <a className="flex px-2 border-[3px] border-gray-300 rounded-lg h-10 items-center gap-2 font-bold flex-row-revers">
             ورود | ثبت نام{" "}
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -82,7 +82,7 @@ const Tophead = () => {
           </a>
         </div>
       </div>
-      <div className="flex justify-start items-center text-sm font-bold gap-4 px-[100px]">
+      <div className="flex justify-start items-center text-sm font-bold gap-4 px-[100px] py-[7px] border-b-2 ">
         <a className="flex flex-row-reverse items-center gap-1 ">
           دسته بندی کالا ها
           <svg
