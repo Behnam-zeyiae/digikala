@@ -42,9 +42,7 @@ const Boxs = () => {
               />
             </svg>
           </div>
-          <div className="lineoff">
-            1200$
-          </div>
+          <div className="lineoff">1200$</div>
         </div>
       </div>
       <div className="wihtebox">
@@ -70,9 +68,7 @@ const Boxs = () => {
               />
             </svg>
           </div>
-          <div className="lineoff">
-            1200$
-          </div>
+          <div className="lineoff">1200$</div>
         </div>
       </div>
       <div className="wihtebox">
@@ -98,9 +94,7 @@ const Boxs = () => {
               />
             </svg>
           </div>
-          <div className="lineoff">
-            1200$
-          </div>
+          <div className="lineoff">1200$</div>
         </div>
       </div>
       <div className="wihtebox">
@@ -126,9 +120,7 @@ const Boxs = () => {
               />
             </svg>
           </div>
-          <div className="lineoff">
-            1200$
-          </div>
+          <div className="lineoff">1200$</div>
         </div>
       </div>
       <div className="wihtebox">
@@ -154,9 +146,7 @@ const Boxs = () => {
               />
             </svg>
           </div>
-          <div className="lineoff">
-            1200$
-          </div>
+          <div className="lineoff">1200$</div>
         </div>
       </div>
       <div className="wihtebox">
@@ -182,9 +172,7 @@ const Boxs = () => {
               />
             </svg>
           </div>
-          <div className="lineoff">
-            1200$
-          </div>
+          <div className="lineoff">1200$</div>
         </div>
       </div>
       <div className="wihtebox">
@@ -210,9 +198,7 @@ const Boxs = () => {
               />
             </svg>
           </div>
-          <div className="lineoff">
-            1200$
-          </div>
+          <div className="lineoff">1200$</div>
         </div>
       </div>
       <div className="wihtebox">
@@ -238,9 +224,7 @@ const Boxs = () => {
               />
             </svg>
           </div>
-          <div className="lineoff">
-            1200$
-          </div>
+          <div className="lineoff">1200$</div>
         </div>
       </div>
     </div>

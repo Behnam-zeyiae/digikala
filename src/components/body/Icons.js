@@ -1,7 +1,7 @@
 import React from "react";
 import { BeakerIcon } from "@heroicons/react/24/solid";
 import { useState } from "react";
-import "./Icons.css"
+import "./Icons.css";
 const Icons = () => {
   return (
     <div className="divstyle">
@@ -21,7 +21,7 @@ const Icons = () => {
         <img src="https://dkstatics-public.digikala.com/digikala-bellatrix/280c887d3f64aba7baf543406ea26ff6f949faae_1662206390.png"></img>
         مهربانی در مهر
       </a>
-      
+
       <a className="w-14 h-14  text-gray-700 text-center text-[10px] font-bold">
         <img src="https://dkstatics-public.digikala.com/digikala-bellatrix/d25c551f15afbe37332585853b5aa51dca4f5e93_1661170707.png"></img>
         بازگشت به مدرسه

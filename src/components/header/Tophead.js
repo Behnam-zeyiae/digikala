@@ -1,7 +1,7 @@
 import React from "react";
 import { BeakerIcon } from "@heroicons/react/24/solid";
 import { useState } from "react";
-import "./Tophead.css"
+import "./Tophead.css";
 const Tophead = () => {
   return (
     <div className=" items-center justify-center ">
@@ -38,7 +38,7 @@ const Tophead = () => {
           stroke="currentColor"
           className="w-6 h-6"
         >
-          <span className="border-bottom-10px">  </span>
+          <span className="border-bottom-10px"> </span>
           <path
             strokeLinecap="round"
             strokeLinejoin="round"
@@ -92,7 +92,6 @@ const Tophead = () => {
               viewBox="0 0 24 24"
               strokeWidth={1.5}
               stroke="currentColor"
-
             >
               <path
                 strokeLinecap="round"

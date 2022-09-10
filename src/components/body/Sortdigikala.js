@@ -3,12 +3,14 @@ const Sortdigikala = () => {
   return (
     <div>
       <div>
-        <h1 className="font-bold text-center text-[18px] mb-5 mt-10">دسته بندی های دیجی کالا</h1>
+        <h1 className="font-bold text-center text-[18px] mb-5 mt-10">
+          دسته بندی های دیجی کالا
+        </h1>
       </div>
       <div className="itemsdigikala">
         <a>
           <img src="https://dkstatics-public.digikala.com/digikala-categories/29dcb8556749524af521e23f63c13efe62a0db4a_1656160904.png" />
-          <p>  تجهیزات صنعتی</p>
+          <p> تجهیزات صنعتی</p>
         </a>
 
         <a>
@@ -61,15 +63,20 @@ const Sortdigikala = () => {
           <p>کتاب، لوازم تحریر و هنر</p>
         </a>
       </div>
-        <div className="lastdiv">
+      <div className="lastdiv">
         <a>
-            <img  className="lastdiv" src="https://dkstatics-public.digikala.com/digikala-adservice-banners/c244ef7114a1705f38866a00e11240dd0017e185_1662551998.jpg?x-oss-process=image/quality,q_95"/>
+          <img
+            className="lastdiv"
+            src="https://dkstatics-public.digikala.com/digikala-adservice-banners/c244ef7114a1705f38866a00e11240dd0017e185_1662551998.jpg?x-oss-process=image/quality,q_95"
+          />
         </a>
         <a>
-            <img  className="lastdiv" src="https://dkstatics-public.digikala.com/digikala-adservice-banners/a0ecd1270ddb0c6ab7e046f0a86ef5e5d48cc961_1662576098.jpg?x-oss-process=image/quality,q_95"/>
+          <img
+            className="lastdiv"
+            src="https://dkstatics-public.digikala.com/digikala-adservice-banners/a0ecd1270ddb0c6ab7e046f0a86ef5e5d48cc961_1662576098.jpg?x-oss-process=image/quality,q_95"
+          />
         </a>
-        </div>
-
+      </div>
     </div>
   );
 };
