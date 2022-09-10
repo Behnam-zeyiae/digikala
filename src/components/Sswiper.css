@@ -1,0 +1,6 @@
+.swipersimg{
+    height: 250px;
+    object-fit: cover;
+    position: relative;
+    width: 100%;
+}

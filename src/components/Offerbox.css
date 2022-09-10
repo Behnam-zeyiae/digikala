@@ -1,0 +1,42 @@
+.forstdiv{
+border: 1px;
+height: auto;
+background-color: rgb(230, 230, 230);
+margin: 10px 10px 5px 10px;
+padding: 10px 10px 0px 10px;
+border-radius: 15px;
+
+}
+.alink{
+    display: flex;
+    justify-content: start;
+    align-items:center;
+
+}
+.imgoffer{
+ width: auto;
+
+ border-radius: 30px;
+}
+.imgoffer1{
+    width: auto;
+ height: auto;
+}
+.itemsborder{
+    display: flex;
+ width: 68px;
+ height: 68px;
+ align-items: flex-end;
+ gap: 10px;
+ justify-items: start;
+ border-radius: 50rem;
+ margin:0px 5px 10px 0px;
+
+}
+.socanddiv{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin:30px 5px 0px 10px;
+
+}

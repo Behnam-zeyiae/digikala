@@ -1,0 +1,16 @@
+
+.timg{
+    width:100%;
+    height: 35px;
+    object-fit: cover;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.searchblock{
+
+    align-items: center;
+    justify-content: center;
+}

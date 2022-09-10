@@ -1,0 +1,15 @@
+.divclass{
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: 6fr 6fr;
+    gap: 10px;
+    margin: 40px 0px 20px 0px;
+    justify-content: center;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 0 20px;
+}
+.abclass img { 
+
+    border-radius: 16px;
+}

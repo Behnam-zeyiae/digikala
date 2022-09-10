@@ -1,0 +1,18 @@
+.divstyle{
+    display: grid;
+    justify-items: center;
+    width: 100%;
+    justify-content: center;
+    height: 50px;
+    padding: 20px 15px 20px 15px;
+    gap: 40px;
+    grid-template-columns: auto auto auto auto;
+}
+.div a{
+    width: 14px;
+    height: 14px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    color: gray;
+}
