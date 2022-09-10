@@ -1,7 +1,7 @@
 import React from "react";
 import { BeakerIcon } from "@heroicons/react/24/solid";
 import { useState } from "react";
-import "./components/Tophead.css";
+import "./Tophead.css"
 const Tophead = () => {
   return (
     <div className=" items-center justify-center ">

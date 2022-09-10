@@ -1,11 +1,11 @@
-import Sswiper from './components/Swiper';
+import Sswiper from './components/header/Swiper';
 import './App.css';
-import Tophead from './components/Tophead';
-import Icons from './components/Icons';
-import Boxs from './components/Boxs';
-import Offerbox from './components/Offerbox';
-import Galarykala from './components/Galarykala';
-import Sortdigikala from './components/Sortdigikala';
+import Icons from './components/body/Icons';
+import Boxs from './components/body/Boxs';
+import Offerbox from './components/body/Offerbox';
+import Galarykala from './components/body/Galarykala';
+import Sortdigikala from './components/body/Sortdigikala';
+import Tophead from './components/header/Tophead';
 function App(){
   return (
       <div>
