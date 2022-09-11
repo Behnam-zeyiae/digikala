@@ -4,13 +4,14 @@ import { useState } from "react";
 import "./Tophead.css";
 const Tophead = () => {
   return (
-    <div className=" items-center justify-center ">
+    <div className="asd">
       <div className="justify-content-center items-center ">
         <img
           className="img"
           src="https://dkstatics-public.digikala.com/digikala-adservice-banners/8212c26bac1d47e33764eacb0934f284f7f34511_1661089302.jpg?x-oss-process=image/quality,q_95"
         />
       </div>
+
       <div className="navbar">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -48,6 +49,7 @@ const Tophead = () => {
       </div>
       <span className="border-header"></span>
       <div className="searchblock">
+      <img  src="https://www.digikala.com/statics/img/svg/logo.svg"/>
         <div className="inputsearch">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -55,7 +57,7 @@ const Tophead = () => {
             viewBox="0 0 24 24"
             strokeWidth={1.5}
             stroke="currentColor"
-            className="w-6 h-6"
+            className="w-6 h-6 xl:mr-[10px]"
           >
             <path
               strokeLinecap="round"
@@ -74,7 +76,7 @@ const Tophead = () => {
               viewBox="0 0 24 24"
               strokeWidth={1.5}
               stroke="currentColor"
-              className="w-6 h-6"
+              className="w-6 h-6 lx:mr-30%"
             >
               <path
                 strokeLinecap="round"

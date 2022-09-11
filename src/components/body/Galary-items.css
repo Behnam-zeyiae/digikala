@@ -13,3 +13,19 @@
 
     border-radius: 16px;
 }
+@media only screen and (min-width: 1280px){
+    .divclass{
+        display: flex;
+        gap: 10px;
+        margin: 0px 15% 20px 15%;
+        justify-content: center;
+        box-sizing: border-box;
+        border-radius: 20px;
+        padding: 0 20px;
+        align-items: center;
+    }
+    .abclass img { 
+    
+        border-radius: 16px;
+    } 
+}

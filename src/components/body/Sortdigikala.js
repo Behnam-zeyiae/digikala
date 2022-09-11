@@ -3,7 +3,7 @@ const Sortdigikala = () => {
   return (
     <div>
       <div>
-        <h1 className="font-bold text-center text-[18px] mb-5 mt-10">
+        <h1 className="font-bold text-center text-[18px] mb-5 mt-10 xl: text-[30px] mx-20">
           دسته بندی های دیجی کالا
         </h1>
       </div>

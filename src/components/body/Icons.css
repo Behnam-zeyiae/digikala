@@ -16,3 +16,12 @@
     font-weight: bold;
     color: gray;
 }
+
+ @media only screen and (min-width: 1280px){
+    .divstyle{
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+
+}
+ }

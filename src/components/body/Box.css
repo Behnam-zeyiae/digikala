@@ -6,7 +6,11 @@
     height: 260px;
     width: full;
     flex-wrap: nowrap;
-    overflow-x: auto;   
+    overflow-x: auto; 
+    cursor: pointer;
+    scrollbar-base-color: #ef3a50;
+    scrollbar-color: red;
+
 }
 .text{
    font-size: 12px;
@@ -58,4 +62,19 @@
     color: gray;
     margin: 0px 80px 0px 0px;
     text-decoration-line: line-through;
+}
+@media only screen and (min-width: 1280px){
+    .redbox{
+        display: flex;
+        margin-right: 15%;
+        margin-left: 15%;
+        box-sizing: border-box;
+        background-color:#ef3a50 ;
+        margin-top: 85px;
+        height: auto;
+        width:auto;
+        flex-wrap: nowrap;
+        align-items: center;
+        border-radius: 15px;
+    }   
 }

@@ -20,3 +20,29 @@
    gap: 10px;
    margin: 5px 10px 5px 10px;
 }
+@media only screen and (min-width: 1280px){
+    .itemsdigikala{
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 16px;
+        text-align: center;
+        padding: 5px 5px 5px 5px;
+        justify-content: space-around;
+        margin:5px 15% 5px 15%;
+    }
+    .itemsdigikala img{
+        width: 180px;
+        height: 180px;
+        margin: 10px 10px 10px 10px;
+    
+    }
+    .lastdiv{
+        display: flex;
+       box-sizing: border-box;
+       border-radius: 15px;
+       gap: 10px;
+       margin:5px 15% 5px 22%;
+       align-items: center;
+       justify-content: center;
+    } 
+}
